@@ -1,6 +1,6 @@
 # 🛒 Projeto Carrinho de Compras
 
-Bem-vindo ao **Projeto Carrinho de Compras**, uma aplicação web desenvolvida com **HTML**, **CSS** e **JavaScript** que simula um carrinho de compras funcional. Você pode visualizar o projeto em funcionamento [aqui](https://projeto-carrinho-de-compras-psi.vercel.app).
+Bem-vindo ao **Projeto Carrinho de Compras**, uma aplicação web desenvolvida com **HTML**, **CSS** e **JavaScript** que simula um carrinho de compras funcional.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -16,10 +16,36 @@ Bem-vindo ao **Projeto Carrinho de Compras**, uma aplicação web desenvolvida c
 - **Persistência de Dados**: Os itens no carrinho permanecem salvos mesmo ao recarregar a página.
 
 ## 📸 Captura de Tela
-![image](https://github.com/user-attachments/assets/ec52cdd4-202c-4115-9fda-976cc62aebbd)
+![image](https://github.com/user-attachments/assets/a3831302-a779-4830-8140-3471351c862c)
+
 
 ## 🔧 Como Executar o Projeto
 
 1. **Clone este repositório**:
    ```sh
    git clone https://github.com/AABL07/projeto-carrinho-de-compras.git
+   ```
+2. **Acesse o diretório do projeto**:
+   ```sh
+   cd projeto-carrinho-de-compras
+   ```
+3. **Abra o arquivo `index.html` no seu navegador** para visualizar a aplicação.
+
+## 💡 Melhorias Futuras
+
+- **Integração com APIs**: Buscar produtos de uma API externa para popular o carrinho.
+- **Autenticação de Usuário**: Implementar login e registro para personalizar a experiência do usuário.
+- **Métodos de Pagamento**: Simular processos de pagamento para uma experiência mais realista.
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
+
+## 📜 Licença
+
+Este projeto está sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+Desenvolvido com ❤️ por [AABL07](https://github.com/AABL07).
+
